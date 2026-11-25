@@ -1,0 +1,543 @@
+﻿Date;Produit;Catégorie;Quantité;Prix unitaire;Vendeur
+21/01/2026;Écran 27 pouces;Informatique;1;249,00;Vendeur B
+28/01/2026;Écouteurs intra;Audio;3;29,90;Vendeur C
+03/01/2026;Écouteurs intra;Audio;5;29,90;Boutique en ligne
+07/01/2026;Souris ergonomique;Informatique;1;34,50;Vendeur A
+03/01/2026;Clavier mécanique;Informatique;2;89,00;Vendeur C
+21/01/2026;Montre connectée;Objets connectés;1;159,00;Vendeur C
+25/01/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur B
+07/01/2026;Souris ergonomique;Informatique;1;34,50;Vendeur A
+26/01/2026;Ampoule connectée;Objets connectés;4;19,90;Vendeur C
+18/01/2026;Coque de téléphone;Accessoires;2;14,90;Vendeur B
+10/01/2026;Écouteurs intra;Audio;4;29,90;Vendeur B
+15/01/2026;Casque audio sans fil;Audio;1;79,90;Vendeur B
+06/01/2026;Clavier mécanique;Informatique;1;89,00;Boutique en ligne
+03/01/2026;Câble USB-C;Accessoires;5;9,90;Vendeur B
+06/01/2026;Chargeur rapide;Accessoires;3;24,90;Boutique en ligne
+20/01/2026;Écouteurs intra;Audio;2;29,90;Vendeur B
+05/01/2026;Coque de téléphone;Accessoires;5;14,90;Boutique en ligne
+01/01/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur C
+07/01/2026;Souris ergonomique;Informatique;2;34,50;Vendeur C
+28/01/2026;Enceinte Bluetooth;Audio;1;49,90;Boutique en ligne
+19/01/2026;Écouteurs intra;Audio;5;29,90;Vendeur B
+26/01/2026;Souris ergonomique;Informatique;1;34,50;Boutique en ligne
+23/01/2026;Clavier mécanique;Informatique;2;89,00;Vendeur C
+24/01/2026;Câble USB-C;Accessoires;3;9,90;Vendeur B
+09/01/2026;Clavier mécanique;Informatique;1;89,00;Vendeur C
+02/01/2026;Chargeur rapide;Accessoires;3;24,90;Vendeur B
+20/01/2026;Casque audio sans fil;Audio;1;79,90;Vendeur B
+04/01/2026;Ampoule connectée;Objets connectés;3;19,90;Vendeur B
+07/01/2026;Souris ergonomique;Informatique;1;34,50;Vendeur C
+14/02/2026;Casque audio sans fil;Audio;2;79,90;Vendeur C
+12/02/2026;Enceinte Bluetooth;Audio;1;49,90;Boutique en ligne
+03/02/2026;Souris ergonomique;Informatique;2;34,50;Vendeur B
+11/02/2026;Écouteurs intra;Audio;2;29,90;Vendeur C
+08/02/2026;Écouteurs intra;Audio;5;29,90;Vendeur A
+15/02/2026;Chargeur rapide;Accessoires;4;24,90;Vendeur A
+07/02/2026;Clavier mécanique;Informatique;1;89,00;Vendeur A
+21/02/2026;Ampoule connectée;Objets connectés;3;19,90;Vendeur C
+11/02/2026;Écran 27 pouces;Informatique;1;249,00;Vendeur B
+13/02/2026;Souris ergonomique;Informatique;1;34,50;Vendeur B
+21/02/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur A
+16/02/2026;Clavier mécanique;Informatique;1;89,00;Boutique en ligne
+28/02/2026;Ampoule connectée;Objets connectés;4;19,90;Vendeur A
+06/02/2026;Écran 27 pouces;Informatique;2;249,00;Boutique en ligne
+10/02/2026;Ampoule connectée;Objets connectés;4;19,90;Vendeur C
+04/02/2026;Montre connectée;Objets connectés;2;159,00;Boutique en ligne
+04/02/2026;Ampoule connectée;Objets connectés;2;19,90;Vendeur A
+05/02/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur A
+08/02/2026;Coque de téléphone;Accessoires;2;14,90;Vendeur B
+12/02/2026;Coque de téléphone;Accessoires;5;14,90;Vendeur C
+18/02/2026;Souris ergonomique;Informatique;2;34,50;Vendeur B
+03/02/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur A
+17/02/2026;Câble USB-C;Accessoires;2;9,90;Vendeur B
+23/02/2026;Écouteurs intra;Audio;3;29,90;Vendeur C
+02/02/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur C
+23/02/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur A
+21/02/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur C
+19/02/2026;Casque audio sans fil;Audio;1;79,90;Vendeur B
+11/02/2026;Souris ergonomique;Informatique;2;34,50;Boutique en ligne
+16/02/2026;Ampoule connectée;Objets connectés;1;19,90;Vendeur C
+18/02/2026;Écouteurs intra;Audio;1;29,90;Vendeur B
+25/02/2026;Câble USB-C;Accessoires;2;9,90;Boutique en ligne
+13/02/2026;Ampoule connectée;Objets connectés;3;19,90;Boutique en ligne
+02/02/2026;Casque audio sans fil;Audio;1;79,90;Vendeur C
+16/02/2026;Souris ergonomique;Informatique;2;34,50;Vendeur C
+04/02/2026;Câble USB-C;Accessoires;4;9,90;Boutique en ligne
+13/02/2026;Ampoule connectée;Objets connectés;1;19,90;Vendeur B
+28/02/2026;Ampoule connectée;Objets connectés;3;19,90;Vendeur B
+23/02/2026;Ampoule connectée;Objets connectés;2;19,90;Vendeur B
+27/02/2026;Casque audio sans fil;Audio;2;79,90;Boutique en ligne
+24/02/2026;Coque de téléphone;Accessoires;1;14,90;Vendeur B
+09/02/2026;Casque audio sans fil;Audio;1;79,90;Vendeur B
+21/02/2026;Coque de téléphone;Accessoires;2;14,90;Vendeur B
+18/02/2026;Coque de téléphone;Accessoires;3;14,90;Boutique en ligne
+08/02/2026;Coque de téléphone;Accessoires;2;14,90;Vendeur C
+11/02/2026;Écouteurs intra;Audio;2;29,90;Vendeur C
+17/02/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur A
+12/03/2026;Souris ergonomique;Informatique;2;34,50;Vendeur A
+08/03/2026;Enceinte Bluetooth;Audio;2;49,90;Boutique en ligne
+01/03/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur B
+05/03/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur A
+20/03/2026;Écouteurs intra;Audio;1;29,90;Vendeur A
+22/03/2026;Chargeur rapide;Accessoires;1;24,90;Boutique en ligne
+15/03/2026;Câble USB-C;Accessoires;4;9,90;Boutique en ligne
+21/03/2026;Clavier mécanique;Informatique;1;89,00;Vendeur C
+07/03/2026;Chargeur rapide;Accessoires;3;24,90;Vendeur C
+08/03/2026;Câble USB-C;Accessoires;4;9,90;Vendeur B
+15/03/2026;Écran 27 pouces;Informatique;1;249,00;Vendeur C
+25/03/2026;Coque de téléphone;Accessoires;3;14,90;Vendeur B
+05/03/2026;Clavier mécanique;Informatique;1;89,00;Boutique en ligne
+24/03/2026;Ampoule connectée;Objets connectés;4;19,90;Vendeur C
+27/03/2026;Casque audio sans fil;Audio;2;79,90;Vendeur A
+11/03/2026;Coque de téléphone;Accessoires;3;14,90;Vendeur A
+09/03/2026;Enceinte Bluetooth;Audio;2;49,90;Boutique en ligne
+21/03/2026;Chargeur rapide;Accessoires;2;24,90;Vendeur B
+19/03/2026;Câble USB-C;Accessoires;2;9,90;Vendeur C
+06/03/2026;Chargeur rapide;Accessoires;1;24,90;Boutique en ligne
+24/03/2026;Clavier mécanique;Informatique;2;89,00;Boutique en ligne
+10/03/2026;Clavier mécanique;Informatique;1;89,00;Vendeur C
+23/03/2026;Coque de téléphone;Accessoires;5;14,90;Vendeur B
+06/03/2026;Casque audio sans fil;Audio;1;79,90;Vendeur C
+18/03/2026;Coque de téléphone;Accessoires;4;14,90;Vendeur B
+23/03/2026;Câble USB-C;Accessoires;1;9,90;Vendeur B
+25/03/2026;Clavier mécanique;Informatique;2;89,00;Vendeur B
+28/03/2026;Clavier mécanique;Informatique;2;89,00;Vendeur B
+04/03/2026;Écran 27 pouces;Informatique;1;249,00;Vendeur A
+22/03/2026;Montre connectée;Objets connectés;1;159,00;Vendeur A
+07/03/2026;Casque audio sans fil;Audio;1;79,90;Vendeur C
+12/03/2026;Ampoule connectée;Objets connectés;3;19,90;Boutique en ligne
+27/03/2026;Casque audio sans fil;Audio;1;79,90;Boutique en ligne
+06/03/2026;Câble USB-C;Accessoires;1;9,90;Vendeur C
+14/03/2026;Écran 27 pouces;Informatique;1;249,00;Boutique en ligne
+22/03/2026;Montre connectée;Objets connectés;2;159,00;Vendeur C
+07/03/2026;Clavier mécanique;Informatique;1;89,00;Boutique en ligne
+26/03/2026;Écouteurs intra;Audio;5;29,90;Vendeur C
+05/03/2026;Montre connectée;Objets connectés;2;159,00;Vendeur B
+06/03/2026;Ampoule connectée;Objets connectés;5;19,90;Vendeur A
+26/03/2026;Ampoule connectée;Objets connectés;5;19,90;Boutique en ligne
+08/03/2026;Ampoule connectée;Objets connectés;2;19,90;Vendeur A
+14/03/2026;Enceinte Bluetooth;Audio;2;49,90;Boutique en ligne
+06/03/2026;Enceinte Bluetooth;Audio;2;49,90;Vendeur A
+22/03/2026;Souris ergonomique;Informatique;1;34,50;Vendeur A
+09/04/2026;Enceinte Bluetooth;Audio;2;49,90;Vendeur B
+18/04/2026;Écouteurs intra;Audio;4;29,90;Vendeur C
+09/04/2026;Chargeur rapide;Accessoires;4;24,90;Vendeur B
+17/04/2026;Montre connectée;Objets connectés;1;159,00;Boutique en ligne
+28/04/2026;Souris ergonomique;Informatique;1;34,50;Vendeur C
+23/04/2026;Casque audio sans fil;Audio;1;79,90;Boutique en ligne
+03/04/2026;Clavier mécanique;Informatique;1;89,00;Boutique en ligne
+09/04/2026;Ampoule connectée;Objets connectés;5;19,90;Vendeur B
+23/04/2026;Câble USB-C;Accessoires;3;9,90;Vendeur C
+02/04/2026;Câble USB-C;Accessoires;4;9,90;Boutique en ligne
+07/04/2026;Coque de téléphone;Accessoires;4;14,90;Vendeur A
+14/04/2026;Chargeur rapide;Accessoires;3;24,90;Vendeur C
+06/04/2026;Ampoule connectée;Objets connectés;1;19,90;Vendeur C
+12/04/2026;Coque de téléphone;Accessoires;2;14,90;Vendeur B
+21/04/2026;Coque de téléphone;Accessoires;5;14,90;Vendeur A
+24/04/2026;Câble USB-C;Accessoires;1;9,90;Vendeur B
+08/04/2026;Clavier mécanique;Informatique;1;89,00;Vendeur A
+04/04/2026;Chargeur rapide;Accessoires;5;24,90;Vendeur A
+20/04/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur A
+03/04/2026;Souris ergonomique;Informatique;2;34,50;Vendeur A
+08/04/2026;Casque audio sans fil;Audio;1;79,90;Boutique en ligne
+03/04/2026;Casque audio sans fil;Audio;1;79,90;Vendeur B
+12/04/2026;Coque de téléphone;Accessoires;4;14,90;Vendeur A
+26/04/2026;Enceinte Bluetooth;Audio;2;49,90;Boutique en ligne
+18/04/2026;Écran 27 pouces;Informatique;1;249,00;Vendeur C
+13/04/2026;Écouteurs intra;Audio;4;29,90;Vendeur C
+12/04/2026;Clavier mécanique;Informatique;2;89,00;Vendeur A
+24/04/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur C
+21/04/2026;Montre connectée;Objets connectés;1;159,00;Vendeur A
+23/04/2026;Câble USB-C;Accessoires;1;9,90;Vendeur B
+21/04/2026;Câble USB-C;Accessoires;2;9,90;Vendeur C
+28/04/2026;Coque de téléphone;Accessoires;5;14,90;Boutique en ligne
+22/04/2026;Souris ergonomique;Informatique;1;34,50;Vendeur C
+02/04/2026;Enceinte Bluetooth;Audio;2;49,90;Vendeur B
+10/04/2026;Ampoule connectée;Objets connectés;4;19,90;Boutique en ligne
+24/04/2026;Câble USB-C;Accessoires;4;9,90;Vendeur C
+27/04/2026;Casque audio sans fil;Audio;1;79,90;Vendeur C
+13/04/2026;Chargeur rapide;Accessoires;1;24,90;Vendeur A
+25/04/2026;Montre connectée;Objets connectés;2;159,00;Vendeur A
+07/04/2026;Casque audio sans fil;Audio;2;79,90;Vendeur A
+20/04/2026;Chargeur rapide;Accessoires;3;24,90;Vendeur C
+13/04/2026;Chargeur rapide;Accessoires;4;24,90;Vendeur A
+27/04/2026;Coque de téléphone;Accessoires;3;14,90;Boutique en ligne
+10/04/2026;Chargeur rapide;Accessoires;5;24,90;Vendeur B
+02/04/2026;Ampoule connectée;Objets connectés;1;19,90;Vendeur C
+26/04/2026;Coque de téléphone;Accessoires;4;14,90;Vendeur B
+18/04/2026;Ampoule connectée;Objets connectés;1;19,90;Vendeur A
+01/04/2026;Casque audio sans fil;Audio;2;79,90;Vendeur A
+02/05/2026;Montre connectée;Objets connectés;1;159,00;Vendeur B
+18/05/2026;Ampoule connectée;Objets connectés;2;19,90;Vendeur B
+18/05/2026;Coque de téléphone;Accessoires;4;14,90;Boutique en ligne
+14/05/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur B
+03/05/2026;Casque audio sans fil;Audio;1;79,90;Vendeur C
+23/05/2026;Casque audio sans fil;Audio;1;79,90;Vendeur C
+10/05/2026;Écran 27 pouces;Informatique;1;249,00;Vendeur C
+05/05/2026;Clavier mécanique;Informatique;2;89,00;Vendeur B
+09/05/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur A
+03/05/2026;Enceinte Bluetooth;Audio;2;49,90;Vendeur B
+16/05/2026;Souris ergonomique;Informatique;1;34,50;Vendeur B
+04/05/2026;Clavier mécanique;Informatique;1;89,00;Vendeur A
+13/05/2026;Montre connectée;Objets connectés;2;159,00;Vendeur B
+16/05/2026;Coque de téléphone;Accessoires;2;14,90;Vendeur B
+11/05/2026;Montre connectée;Objets connectés;1;159,00;Boutique en ligne
+18/05/2026;Chargeur rapide;Accessoires;3;24,90;Vendeur A
+01/05/2026;Chargeur rapide;Accessoires;4;24,90;Vendeur C
+06/05/2026;Clavier mécanique;Informatique;1;89,00;Vendeur C
+21/05/2026;Casque audio sans fil;Audio;1;79,90;Vendeur B
+14/05/2026;Enceinte Bluetooth;Audio;2;49,90;Vendeur B
+06/05/2026;Écran 27 pouces;Informatique;1;249,00;Vendeur C
+14/05/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur A
+10/05/2026;Montre connectée;Objets connectés;1;159,00;Vendeur B
+23/05/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur B
+13/05/2026;Chargeur rapide;Accessoires;5;24,90;Boutique en ligne
+12/05/2026;Chargeur rapide;Accessoires;2;24,90;Vendeur C
+04/05/2026;Ampoule connectée;Objets connectés;5;19,90;Vendeur B
+27/05/2026;Clavier mécanique;Informatique;2;89,00;Vendeur A
+18/05/2026;Chargeur rapide;Accessoires;5;24,90;Vendeur B
+02/05/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur C
+06/05/2026;Ampoule connectée;Objets connectés;4;19,90;Vendeur C
+10/05/2026;Chargeur rapide;Accessoires;1;24,90;Vendeur A
+18/05/2026;Écran 27 pouces;Informatique;1;249,00;Vendeur B
+06/05/2026;Ampoule connectée;Objets connectés;5;19,90;Vendeur A
+26/05/2026;Écouteurs intra;Audio;1;29,90;Boutique en ligne
+03/05/2026;Ampoule connectée;Objets connectés;4;19,90;Boutique en ligne
+02/05/2026;Écran 27 pouces;Informatique;1;249,00;Vendeur C
+25/05/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur C
+26/05/2026;Chargeur rapide;Accessoires;3;24,90;Vendeur C
+02/05/2026;Montre connectée;Objets connectés;2;159,00;Vendeur A
+01/05/2026;Écouteurs intra;Audio;1;29,90;Boutique en ligne
+12/05/2026;Ampoule connectée;Objets connectés;5;19,90;Vendeur B
+05/05/2026;Câble USB-C;Accessoires;2;9,90;Vendeur A
+01/05/2026;Clavier mécanique;Informatique;1;89,00;Boutique en ligne
+27/05/2026;Clavier mécanique;Informatique;2;89,00;Vendeur A
+17/05/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur C
+24/05/2026;Souris ergonomique;Informatique;1;34,50;Vendeur A
+01/05/2026;Souris ergonomique;Informatique;1;34,50;Vendeur B
+07/05/2026;Écouteurs intra;Audio;1;29,90;Vendeur B
+06/05/2026;Câble USB-C;Accessoires;3;9,90;Vendeur A
+02/05/2026;Écouteurs intra;Audio;2;29,90;Vendeur A
+09/05/2026;Coque de téléphone;Accessoires;5;14,90;Vendeur C
+10/05/2026;Souris ergonomique;Informatique;2;34,50;Vendeur B
+24/05/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur A
+24/05/2026;Câble USB-C;Accessoires;1;9,90;Vendeur B
+04/05/2026;Casque audio sans fil;Audio;1;79,90;Vendeur A
+07/06/2026;Montre connectée;Objets connectés;1;159,00;Vendeur B
+19/06/2026;Écouteurs intra;Audio;1;29,90;Vendeur C
+03/06/2026;Écran 27 pouces;Informatique;1;249,00;Vendeur A
+19/06/2026;Écouteurs intra;Audio;1;29,90;Vendeur A
+16/06/2026;Montre connectée;Objets connectés;2;159,00;Boutique en ligne
+11/06/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur A
+14/06/2026;Souris ergonomique;Informatique;2;34,50;Vendeur A
+21/06/2026;Souris ergonomique;Informatique;2;34,50;Vendeur C
+03/06/2026;Enceinte Bluetooth;Audio;2;49,90;Boutique en ligne
+21/06/2026;Ampoule connectée;Objets connectés;2;19,90;Vendeur B
+01/06/2026;Câble USB-C;Accessoires;2;9,90;Boutique en ligne
+13/06/2026;Écran 27 pouces;Informatique;1;249,00;Vendeur C
+04/06/2026;Casque audio sans fil;Audio;2;79,90;Vendeur A
+09/06/2026;Souris ergonomique;Informatique;2;34,50;Vendeur B
+01/06/2026;Ampoule connectée;Objets connectés;3;19,90;Vendeur C
+23/06/2026;Écouteurs intra;Audio;4;29,90;Vendeur A
+28/06/2026;Chargeur rapide;Accessoires;4;24,90;Vendeur A
+05/06/2026;Coque de téléphone;Accessoires;1;14,90;Vendeur C
+01/06/2026;Chargeur rapide;Accessoires;4;24,90;Vendeur B
+17/06/2026;Montre connectée;Objets connectés;2;159,00;Vendeur C
+18/06/2026;Câble USB-C;Accessoires;5;9,90;Boutique en ligne
+04/06/2026;Écran 27 pouces;Informatique;1;249,00;Boutique en ligne
+15/06/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur A
+07/06/2026;Montre connectée;Objets connectés;2;159,00;Vendeur A
+11/06/2026;Clavier mécanique;Informatique;1;89,00;Vendeur A
+04/06/2026;Montre connectée;Objets connectés;1;159,00;Vendeur A
+06/06/2026;Écouteurs intra;Audio;3;29,90;Vendeur C
+24/06/2026;Casque audio sans fil;Audio;1;79,90;Vendeur B
+03/06/2026;Souris ergonomique;Informatique;1;34,50;Vendeur B
+26/06/2026;Coque de téléphone;Accessoires;3;14,90;Boutique en ligne
+15/06/2026;Écouteurs intra;Audio;2;29,90;Vendeur C
+12/06/2026;Câble USB-C;Accessoires;5;9,90;Vendeur C
+27/06/2026;Chargeur rapide;Accessoires;2;24,90;Vendeur A
+26/06/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur A
+15/06/2026;Ampoule connectée;Objets connectés;2;19,90;Vendeur B
+08/06/2026;Coque de téléphone;Accessoires;1;14,90;Vendeur A
+11/06/2026;Clavier mécanique;Informatique;1;89,00;Vendeur A
+25/06/2026;Clavier mécanique;Informatique;1;89,00;Vendeur B
+03/06/2026;Ampoule connectée;Objets connectés;4;19,90;Vendeur B
+03/06/2026;Câble USB-C;Accessoires;3;9,90;Vendeur A
+28/06/2026;Enceinte Bluetooth;Audio;2;49,90;Vendeur A
+07/06/2026;Chargeur rapide;Accessoires;3;24,90;Boutique en ligne
+06/06/2026;Écouteurs intra;Audio;3;29,90;Vendeur A
+19/06/2026;Souris ergonomique;Informatique;2;34,50;Vendeur B
+05/06/2026;Montre connectée;Objets connectés;2;159,00;Vendeur A
+12/06/2026;Ampoule connectée;Objets connectés;4;19,90;Vendeur C
+03/06/2026;Écouteurs intra;Audio;2;29,90;Vendeur A
+07/06/2026;Casque audio sans fil;Audio;1;79,90;Vendeur B
+11/06/2026;Souris ergonomique;Informatique;1;34,50;Vendeur B
+04/07/2026;Montre connectée;Objets connectés;1;159,00;Vendeur B
+27/07/2026;Casque audio sans fil;Audio;2;79,90;Vendeur A
+24/07/2026;Ampoule connectée;Objets connectés;3;19,90;Boutique en ligne
+11/07/2026;Écouteurs intra;Audio;1;29,90;Vendeur B
+07/07/2026;Écouteurs intra;Audio;2;29,90;Boutique en ligne
+25/07/2026;Ampoule connectée;Objets connectés;5;19,90;Vendeur C
+03/07/2026;Ampoule connectée;Objets connectés;5;19,90;Vendeur A
+04/07/2026;Ampoule connectée;Objets connectés;2;19,90;Boutique en ligne
+10/07/2026;Écouteurs intra;Audio;4;29,90;Vendeur B
+17/07/2026;Coque de téléphone;Accessoires;3;14,90;Vendeur C
+01/07/2026;Casque audio sans fil;Audio;2;79,90;Vendeur C
+28/07/2026;Souris ergonomique;Informatique;2;34,50;Vendeur C
+25/07/2026;Ampoule connectée;Objets connectés;3;19,90;Vendeur B
+06/07/2026;Câble USB-C;Accessoires;4;9,90;Vendeur B
+18/07/2026;Casque audio sans fil;Audio;1;79,90;Vendeur C
+28/07/2026;Clavier mécanique;Informatique;1;89,00;Boutique en ligne
+24/07/2026;Chargeur rapide;Accessoires;4;24,90;Vendeur B
+18/07/2026;Écouteurs intra;Audio;4;29,90;Vendeur C
+26/07/2026;Chargeur rapide;Accessoires;2;24,90;Vendeur C
+20/07/2026;Clavier mécanique;Informatique;2;89,00;Boutique en ligne
+15/07/2026;Clavier mécanique;Informatique;2;89,00;Boutique en ligne
+13/07/2026;Clavier mécanique;Informatique;2;89,00;Vendeur B
+12/07/2026;Chargeur rapide;Accessoires;5;24,90;Vendeur B
+28/07/2026;Casque audio sans fil;Audio;2;79,90;Boutique en ligne
+24/07/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur C
+22/07/2026;Câble USB-C;Accessoires;1;9,90;Vendeur C
+12/07/2026;Écouteurs intra;Audio;1;29,90;Vendeur B
+16/07/2026;Clavier mécanique;Informatique;2;89,00;Vendeur B
+02/07/2026;Écouteurs intra;Audio;1;29,90;Vendeur A
+10/07/2026;Coque de téléphone;Accessoires;3;14,90;Vendeur A
+06/07/2026;Coque de téléphone;Accessoires;1;14,90;Boutique en ligne
+23/07/2026;Câble USB-C;Accessoires;1;9,90;Vendeur B
+27/07/2026;Câble USB-C;Accessoires;2;9,90;Vendeur B
+25/07/2026;Casque audio sans fil;Audio;1;79,90;Vendeur B
+28/07/2026;Chargeur rapide;Accessoires;3;24,90;Boutique en ligne
+25/07/2026;Casque audio sans fil;Audio;2;79,90;Vendeur C
+09/07/2026;Coque de téléphone;Accessoires;2;14,90;Vendeur B
+07/07/2026;Écouteurs intra;Audio;3;29,90;Vendeur B
+22/07/2026;Clavier mécanique;Informatique;2;89,00;Vendeur A
+08/07/2026;Écran 27 pouces;Informatique;2;249,00;Boutique en ligne
+08/07/2026;Enceinte Bluetooth;Audio;2;49,90;Vendeur A
+03/07/2026;Montre connectée;Objets connectés;2;159,00;Boutique en ligne
+16/07/2026;Coque de téléphone;Accessoires;4;14,90;Vendeur B
+08/07/2026;Coque de téléphone;Accessoires;5;14,90;Vendeur C
+03/07/2026;Écouteurs intra;Audio;2;29,90;Boutique en ligne
+05/07/2026;Enceinte Bluetooth;Audio;2;49,90;Vendeur A
+28/07/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur A
+16/07/2026;Câble USB-C;Accessoires;1;9,90;Vendeur B
+23/07/2026;Câble USB-C;Accessoires;4;9,90;Vendeur A
+01/07/2026;Souris ergonomique;Informatique;2;34,50;Boutique en ligne
+16/07/2026;Écouteurs intra;Audio;2;29,90;Vendeur A
+08/07/2026;Enceinte Bluetooth;Audio;1;49,90;Boutique en ligne
+05/07/2026;Ampoule connectée;Objets connectés;4;19,90;Vendeur B
+07/07/2026;Clavier mécanique;Informatique;2;89,00;Vendeur C
+05/07/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur B
+16/07/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur B
+14/07/2026;Enceinte Bluetooth;Audio;2;49,90;Vendeur B
+02/07/2026;Casque audio sans fil;Audio;2;79,90;Boutique en ligne
+23/07/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur A
+23/07/2026;Écouteurs intra;Audio;5;29,90;Vendeur C
+22/07/2026;Clavier mécanique;Informatique;2;89,00;Boutique en ligne
+22/07/2026;Coque de téléphone;Accessoires;4;14,90;Vendeur A
+06/08/2026;Casque audio sans fil;Audio;2;79,90;Boutique en ligne
+19/08/2026;Montre connectée;Objets connectés;2;159,00;Vendeur B
+18/08/2026;Coque de téléphone;Accessoires;3;14,90;Vendeur C
+19/08/2026;Chargeur rapide;Accessoires;4;24,90;Vendeur C
+10/08/2026;Câble USB-C;Accessoires;5;9,90;Vendeur C
+18/08/2026;Ampoule connectée;Objets connectés;4;19,90;Vendeur A
+10/08/2026;Clavier mécanique;Informatique;2;89,00;Vendeur B
+16/08/2026;Chargeur rapide;Accessoires;3;24,90;Vendeur A
+02/08/2026;Montre connectée;Objets connectés;1;159,00;Vendeur C
+26/08/2026;Ampoule connectée;Objets connectés;3;19,90;Boutique en ligne
+20/08/2026;Écouteurs intra;Audio;5;29,90;Boutique en ligne
+04/08/2026;Montre connectée;Objets connectés;2;159,00;Vendeur C
+25/08/2026;Montre connectée;Objets connectés;2;159,00;Boutique en ligne
+03/08/2026;Clavier mécanique;Informatique;1;89,00;Vendeur B
+25/08/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur B
+20/08/2026;Clavier mécanique;Informatique;1;89,00;Vendeur A
+20/08/2026;Montre connectée;Objets connectés;2;159,00;Vendeur A
+14/08/2026;Souris ergonomique;Informatique;1;34,50;Vendeur A
+21/08/2026;Clavier mécanique;Informatique;2;89,00;Vendeur C
+27/08/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur C
+11/08/2026;Écouteurs intra;Audio;3;29,90;Vendeur A
+16/08/2026;Coque de téléphone;Accessoires;1;14,90;Vendeur C
+17/08/2026;Ampoule connectée;Objets connectés;1;19,90;Vendeur C
+09/08/2026;Écran 27 pouces;Informatique;1;249,00;Vendeur B
+07/08/2026;Écouteurs intra;Audio;2;29,90;Boutique en ligne
+13/08/2026;Écouteurs intra;Audio;2;29,90;Vendeur B
+02/08/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur C
+07/08/2026;Ampoule connectée;Objets connectés;3;19,90;Boutique en ligne
+18/08/2026;Coque de téléphone;Accessoires;2;14,90;Vendeur C
+12/08/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur C
+08/08/2026;Montre connectée;Objets connectés;2;159,00;Boutique en ligne
+03/08/2026;Casque audio sans fil;Audio;1;79,90;Boutique en ligne
+24/08/2026;Ampoule connectée;Objets connectés;1;19,90;Boutique en ligne
+22/08/2026;Coque de téléphone;Accessoires;1;14,90;Vendeur A
+14/08/2026;Coque de téléphone;Accessoires;4;14,90;Vendeur A
+24/08/2026;Souris ergonomique;Informatique;2;34,50;Vendeur A
+01/08/2026;Clavier mécanique;Informatique;2;89,00;Vendeur B
+01/08/2026;Montre connectée;Objets connectés;2;159,00;Boutique en ligne
+15/08/2026;Montre connectée;Objets connectés;2;159,00;Boutique en ligne
+17/08/2026;Clavier mécanique;Informatique;1;89,00;Vendeur B
+18/08/2026;Montre connectée;Objets connectés;1;159,00;Vendeur C
+19/08/2026;Souris ergonomique;Informatique;2;34,50;Vendeur A
+07/08/2026;Montre connectée;Objets connectés;1;159,00;Vendeur A
+27/08/2026;Chargeur rapide;Accessoires;2;24,90;Boutique en ligne
+11/08/2026;Coque de téléphone;Accessoires;5;14,90;Vendeur B
+20/08/2026;Écouteurs intra;Audio;2;29,90;Vendeur A
+02/08/2026;Montre connectée;Objets connectés;1;159,00;Boutique en ligne
+12/08/2026;Enceinte Bluetooth;Audio;2;49,90;Boutique en ligne
+26/08/2026;Montre connectée;Objets connectés;2;159,00;Boutique en ligne
+22/08/2026;Ampoule connectée;Objets connectés;3;19,90;Vendeur B
+06/08/2026;Chargeur rapide;Accessoires;1;24,90;Boutique en ligne
+09/08/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur B
+03/08/2026;Enceinte Bluetooth;Audio;2;49,90;Vendeur A
+28/08/2026;Souris ergonomique;Informatique;2;34,50;Boutique en ligne
+27/08/2026;Clavier mécanique;Informatique;2;89,00;Vendeur A
+11/08/2026;Écran 27 pouces;Informatique;2;249,00;Boutique en ligne
+04/08/2026;Chargeur rapide;Accessoires;3;24,90;Vendeur A
+03/08/2026;Chargeur rapide;Accessoires;3;24,90;Vendeur C
+22/08/2026;Souris ergonomique;Informatique;1;34,50;Vendeur A
+22/08/2026;Casque audio sans fil;Audio;1;79,90;Boutique en ligne
+13/08/2026;Montre connectée;Objets connectés;2;159,00;Boutique en ligne
+06/08/2026;Clavier mécanique;Informatique;1;89,00;Boutique en ligne
+08/08/2026;Écouteurs intra;Audio;3;29,90;Boutique en ligne
+24/09/2026;Montre connectée;Objets connectés;1;159,00;Vendeur C
+25/09/2026;Casque audio sans fil;Audio;2;79,90;Vendeur C
+27/09/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur B
+26/09/2026;Casque audio sans fil;Audio;1;79,90;Boutique en ligne
+21/09/2026;Coque de téléphone;Accessoires;2;14,90;Vendeur B
+01/09/2026;Montre connectée;Objets connectés;1;159,00;Vendeur B
+28/09/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur A
+12/09/2026;Câble USB-C;Accessoires;4;9,90;Boutique en ligne
+20/09/2026;Casque audio sans fil;Audio;2;79,90;Boutique en ligne
+08/09/2026;Ampoule connectée;Objets connectés;2;19,90;Boutique en ligne
+14/09/2026;Souris ergonomique;Informatique;1;34,50;Vendeur C
+25/09/2026;Câble USB-C;Accessoires;1;9,90;Vendeur B
+07/09/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur A
+15/09/2026;Écran 27 pouces;Informatique;1;249,00;Boutique en ligne
+25/09/2026;Écran 27 pouces;Informatique;1;249,00;Vendeur B
+08/09/2026;Coque de téléphone;Accessoires;2;14,90;Boutique en ligne
+25/09/2026;Coque de téléphone;Accessoires;5;14,90;Vendeur A
+12/09/2026;Casque audio sans fil;Audio;1;79,90;Vendeur A
+21/09/2026;Casque audio sans fil;Audio;2;79,90;Vendeur A
+17/09/2026;Chargeur rapide;Accessoires;1;24,90;Vendeur B
+21/09/2026;Montre connectée;Objets connectés;1;159,00;Vendeur C
+19/09/2026;Souris ergonomique;Informatique;1;34,50;Vendeur C
+06/09/2026;Écouteurs intra;Audio;1;29,90;Vendeur B
+19/09/2026;Ampoule connectée;Objets connectés;3;19,90;Vendeur A
+06/09/2026;Écouteurs intra;Audio;4;29,90;Vendeur A
+28/09/2026;Ampoule connectée;Objets connectés;2;19,90;Vendeur C
+14/09/2026;Écouteurs intra;Audio;3;29,90;Boutique en ligne
+06/09/2026;Enceinte Bluetooth;Audio;2;49,90;Vendeur B
+02/09/2026;Coque de téléphone;Accessoires;2;14,90;Boutique en ligne
+09/09/2026;Écran 27 pouces;Informatique;2;249,00;Boutique en ligne
+20/09/2026;Montre connectée;Objets connectés;2;159,00;Vendeur A
+26/09/2026;Montre connectée;Objets connectés;1;159,00;Vendeur A
+18/09/2026;Chargeur rapide;Accessoires;4;24,90;Vendeur C
+09/09/2026;Montre connectée;Objets connectés;2;159,00;Vendeur A
+15/09/2026;Souris ergonomique;Informatique;2;34,50;Boutique en ligne
+26/09/2026;Écran 27 pouces;Informatique;2;249,00;Boutique en ligne
+12/09/2026;Câble USB-C;Accessoires;5;9,90;Boutique en ligne
+09/09/2026;Clavier mécanique;Informatique;2;89,00;Vendeur A
+21/09/2026;Coque de téléphone;Accessoires;2;14,90;Boutique en ligne
+13/09/2026;Chargeur rapide;Accessoires;3;24,90;Boutique en ligne
+22/09/2026;Casque audio sans fil;Audio;1;79,90;Vendeur A
+18/09/2026;Câble USB-C;Accessoires;5;9,90;Vendeur B
+08/09/2026;Souris ergonomique;Informatique;2;34,50;Vendeur C
+19/09/2026;Chargeur rapide;Accessoires;1;24,90;Vendeur A
+04/09/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur C
+21/09/2026;Ampoule connectée;Objets connectés;1;19,90;Boutique en ligne
+01/09/2026;Écran 27 pouces;Informatique;2;249,00;Boutique en ligne
+15/09/2026;Câble USB-C;Accessoires;1;9,90;Vendeur B
+07/09/2026;Souris ergonomique;Informatique;2;34,50;Boutique en ligne
+19/09/2026;Écouteurs intra;Audio;3;29,90;Boutique en ligne
+23/09/2026;Casque audio sans fil;Audio;2;79,90;Vendeur A
+12/09/2026;Casque audio sans fil;Audio;2;79,90;Vendeur A
+13/09/2026;Coque de téléphone;Accessoires;3;14,90;Vendeur C
+19/09/2026;Chargeur rapide;Accessoires;5;24,90;Boutique en ligne
+20/09/2026;Écouteurs intra;Audio;1;29,90;Vendeur B
+17/09/2026;Montre connectée;Objets connectés;1;159,00;Vendeur A
+12/09/2026;Chargeur rapide;Accessoires;2;24,90;Vendeur C
+17/09/2026;Casque audio sans fil;Audio;2;79,90;Vendeur A
+24/09/2026;Enceinte Bluetooth;Audio;1;49,90;Boutique en ligne
+02/09/2026;Câble USB-C;Accessoires;1;9,90;Vendeur C
+24/09/2026;Écouteurs intra;Audio;2;29,90;Vendeur C
+03/09/2026;Chargeur rapide;Accessoires;4;24,90;Vendeur C
+23/10/2026;Souris ergonomique;Informatique;2;34,50;Vendeur C
+06/10/2026;Ampoule connectée;Objets connectés;5;19,90;Vendeur A
+14/10/2026;Câble USB-C;Accessoires;3;9,90;Vendeur C
+15/10/2026;Ampoule connectée;Objets connectés;5;19,90;Boutique en ligne
+06/10/2026;Câble USB-C;Accessoires;1;9,90;Vendeur C
+17/10/2026;Écouteurs intra;Audio;4;29,90;Vendeur C
+15/10/2026;Clavier mécanique;Informatique;1;89,00;Vendeur B
+13/10/2026;Écouteurs intra;Audio;5;29,90;Vendeur B
+14/10/2026;Casque audio sans fil;Audio;1;79,90;Vendeur A
+14/10/2026;Écouteurs intra;Audio;4;29,90;Vendeur B
+27/10/2026;Coque de téléphone;Accessoires;5;14,90;Vendeur C
+04/10/2026;Montre connectée;Objets connectés;2;159,00;Vendeur A
+03/10/2026;Casque audio sans fil;Audio;2;79,90;Vendeur C
+22/10/2026;Enceinte Bluetooth;Audio;2;49,90;Vendeur A
+03/10/2026;Casque audio sans fil;Audio;1;79,90;Vendeur A
+07/10/2026;Montre connectée;Objets connectés;2;159,00;Vendeur A
+11/10/2026;Chargeur rapide;Accessoires;3;24,90;Vendeur A
+05/10/2026;Enceinte Bluetooth;Audio;2;49,90;Vendeur A
+13/10/2026;Câble USB-C;Accessoires;4;9,90;Vendeur B
+09/10/2026;Câble USB-C;Accessoires;5;9,90;Vendeur B
+06/10/2026;Enceinte Bluetooth;Audio;2;49,90;Vendeur C
+25/10/2026;Coque de téléphone;Accessoires;2;14,90;Vendeur B
+01/10/2026;Casque audio sans fil;Audio;2;79,90;Boutique en ligne
+07/10/2026;Écouteurs intra;Audio;3;29,90;Boutique en ligne
+20/10/2026;Casque audio sans fil;Audio;1;79,90;Vendeur C
+16/10/2026;Chargeur rapide;Accessoires;2;24,90;Vendeur C
+09/10/2026;Clavier mécanique;Informatique;2;89,00;Vendeur B
+25/10/2026;Montre connectée;Objets connectés;2;159,00;Boutique en ligne
+16/10/2026;Chargeur rapide;Accessoires;5;24,90;Vendeur B
+18/10/2026;Clavier mécanique;Informatique;2;89,00;Vendeur B
+26/10/2026;Enceinte Bluetooth;Audio;2;49,90;Boutique en ligne
+01/10/2026;Ampoule connectée;Objets connectés;3;19,90;Vendeur B
+03/10/2026;Casque audio sans fil;Audio;2;79,90;Boutique en ligne
+24/10/2026;Chargeur rapide;Accessoires;5;24,90;Boutique en ligne
+13/10/2026;Clavier mécanique;Informatique;2;89,00;Vendeur C
+26/10/2026;Montre connectée;Objets connectés;1;159,00;Vendeur B
+14/10/2026;Montre connectée;Objets connectés;2;159,00;Vendeur C
+11/10/2026;Câble USB-C;Accessoires;4;9,90;Vendeur C
+18/10/2026;Montre connectée;Objets connectés;1;159,00;Vendeur B
+14/10/2026;Câble USB-C;Accessoires;4;9,90;Vendeur C
+27/10/2026;Écouteurs intra;Audio;5;29,90;Vendeur B
+23/10/2026;Ampoule connectée;Objets connectés;4;19,90;Vendeur C
+24/10/2026;Écran 27 pouces;Informatique;1;249,00;Vendeur C
+05/10/2026;Coque de téléphone;Accessoires;3;14,90;Vendeur C
+13/10/2026;Chargeur rapide;Accessoires;4;24,90;Boutique en ligne
+17/10/2026;Montre connectée;Objets connectés;1;159,00;Vendeur B
+14/10/2026;Casque audio sans fil;Audio;2;79,90;Vendeur B
+23/10/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur A
+24/10/2026;Écran 27 pouces;Informatique;1;249,00;Vendeur B
+06/10/2026;Enceinte Bluetooth;Audio;2;49,90;Boutique en ligne
+13/10/2026;Écouteurs intra;Audio;1;29,90;Boutique en ligne
+03/10/2026;Écran 27 pouces;Informatique;2;249,00;Vendeur C
+14/10/2026;Enceinte Bluetooth;Audio;1;49,90;Vendeur A
+22/10/2026;Coque de téléphone;Accessoires;5;14,90;Boutique en ligne
+12/10/2026;Câble USB-C;Accessoires;1;9,90;Vendeur A
+05/10/2026;Écran 27 pouces;Informatique;1;249,00;Vendeur C
+22/10/2026;Montre connectée;Objets connectés;2;159,00;Vendeur A
+20/10/2026;Souris ergonomique;Informatique;2;34,50;Vendeur B
+18/10/2026;Ampoule connectée;Objets connectés;4;19,90;Vendeur A
+21/10/2026;Écran 27 pouces;Informatique;2;249,00;Boutique en ligne
+12/10/2026;Montre connectée;Objets connectés;2;159,00;Vendeur C
+15/10/2026;Câble USB-C;Accessoires;5;9,90;Boutique en ligne
+05/10/2026;Ampoule connectée;Objets connectés;4;19,90;Vendeur A
+10/10/2026;Écouteurs intra;Audio;5;29,90;Vendeur A
+14/10/2026;Casque audio sans fil;Audio;2;79,90;Vendeur A
+24/10/2026;Écran 27 pouces;Informatique;2;249,00;Boutique en ligne
+27/10/2026;Souris ergonomique;Informatique;2;34,50;Vendeur C
+05/10/2026;Ampoule connectée;Objets connectés;5;19,90;Boutique en ligne
+14/10/2026;Écran 27 pouces;Informatique;1;249,00;Vendeur C
+10/10/2026;Ampoule connectée;Objets connectés;2;19,90;Vendeur A
+14/10/2026;Écouteurs intra;Audio;2;29,90;Vendeur A
+27/10/2026;Montre connectée;Objets connectés;2;159,00;Vendeur B
+08/10/2026;Chargeur rapide;Accessoires;1;24,90;Vendeur B
+04/10/2026;Ampoule connectée;Objets connectés;5;19,90;Boutique en ligne
+25/10/2026;Enceinte Bluetooth;Audio;2;49,90;Boutique en ligne
+22/10/2026;Ampoule connectée;Objets connectés;2;19,90;Vendeur A
+19/10/2026;Écran 27 pouces;Informatique;1;249,00;Boutique en ligne
+31/02/2026;Câble USB-C;Accessoires;2;9,90;Vendeur A
+15/06/2026;Enceinte Bluetooth;Audio;deux;49,90;Vendeur B
+20/07/2026;;Audio;1;29,90;Vendeur C
+12/09/2026;Souris ergonomique;Informatique;1;;Vendeur A
