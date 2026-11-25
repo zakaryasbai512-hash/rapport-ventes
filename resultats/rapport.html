@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Rapport de ventes — 01/01/2026 au 27/10/2026</title>
+<style>
+  :root { --bleu:#2563eb; --texte:#1f2937; --gris:#6b7280; --fond:#f3f4f6; }
+  * { box-sizing: border-box; }
+  body { margin:0; font-family:"Segoe UI",system-ui,sans-serif; background:var(--fond); color:var(--texte); }
+  header { background:linear-gradient(135deg,#1e3a8a,var(--bleu)); color:#fff; padding:2rem 0; }
+  .wrap { width:min(1000px,92%); margin:0 auto; }
+  header h1 { margin:0 0 .3rem; font-size:1.8rem; }
+  header p { margin:0; opacity:.85; }
+  main { padding:2rem 0 3rem; display:grid; gap:1.5rem; }
+  .kpis { display:grid; grid-template-columns:repeat(auto-fit,minmax(200px,1fr)); gap:1rem; }
+  .kpi, .carte { background:#fff; border-radius:12px; padding:1.3rem 1.5rem; box-shadow:0 2px 8px rgba(0,0,0,.05); }
+  .kpi span { color:var(--gris); font-size:.9rem; }
+  .kpi strong { display:block; font-size:1.6rem; margin-top:.3rem; }
+  .kpi small { color:var(--gris); }
+  h2 { margin:0 0 1rem; font-size:1.15rem; }
+  .deux { display:grid; grid-template-columns:1fr 1fr; gap:1.5rem; }
+  svg { width:100%; height:auto; }
+  .barre { fill:var(--bleu); } .barre:hover { fill:#1e40af; }
+  .grille { stroke:#e5e7eb; } .axe { fill:var(--gris); font-size:12px; }
+  table { width:100%; border-collapse:collapse; font-size:.95rem; }
+  th, td { padding:.55rem .4rem; border-bottom:1px solid #e5e7eb; text-align:left; }
+  th { color:var(--gris); font-weight:600; font-size:.85rem; text-transform:uppercase; }
+  .num { text-align:right; white-space:nowrap; }
+  .hausse { color:#16a34a; } .baisse { color:#dc2626; }
+  .hbar { display:grid; grid-template-columns:130px 1fr 150px; gap:.8rem; align-items:center; margin:.55rem 0; font-size:.95rem; }
+  .hbar-piste { background:#e5e7eb; height:12px; border-radius:6px; overflow:hidden; }
+  .hbar-piste span { display:block; height:100%; background:var(--bleu); border-radius:6px; }
+  .hbar-val { text-align:right; } .hbar-val small { color:var(--gris); }
+  .alerte { border-left:5px solid #f59e0b; } .alerte ul { margin:.5rem 0 0; color:#92400e; }
+  footer { text-align:center; color:var(--gris); font-size:.85rem; padding-bottom:2rem; }
+  @media (max-width:750px) { .deux { grid-template-columns:1fr; } .hbar { grid-template-columns:1fr; gap:.3rem; } .hbar-val { text-align:left; } }
+  @media print { body { background:#fff; } .kpi, .carte { box-shadow:none; border:1px solid #ddd; break-inside:avoid; } }
+</style>
+</head>
+<body>
+<header><div class="wrap">
+  <h1>📊 Rapport de ventes</h1>
+  <p>Du 01/01/2026 au 27/10/2026 · source : ventes-exemple.csv</p>
+</div></header>
+<main class="wrap">
+  <section class="kpis">
+    <div class="kpi"><span>Chiffre d'affaires</span><strong>65 579,10 €</strong></div>
+    <div class="kpi"><span>Ventes</span><strong>538</strong><small>1 196 articles</small></div>
+    <div class="kpi"><span>Panier moyen</span><strong>121,89 €</strong></div>
+    <div class="kpi"><span>Meilleur mois</span><strong>oct. 26</strong><small>10 641,30 €</small></div>
+  </section>
+
+  <section class="carte">
+    <h2>Chiffre d'affaires par mois</h2>
+    <svg viewBox="0 0 760 280" role="img" aria-label="Chiffre d'affaires par mois"><line x1="70" x2="750" y1="240" y2="240" class="grille"/>
+      <text x="62" y="244" text-anchor="end" class="axe">0 k€</text><line x1="70" x2="750" y1="166.66666666666669" y2="166.66666666666669" class="grille"/>
+      <text x="62" y="170.66666666666669" text-anchor="end" class="axe">5 k€</text><line x1="70" x2="750" y1="93.33333333333334" y2="93.33333333333334" class="grille"/>
+      <text x="62" y="97.33333333333334" text-anchor="end" class="axe">10 k€</text><line x1="70" x2="750" y1="20" y2="20" class="grille"/>
+      <text x="62" y="24" text-anchor="end" class="axe">15 k€</text><g><title>janv. 26 : 2 498,80 €</title>
+      <rect x="80.2" y="203.35093333333333" width="47.599999999999994" height="36.64906666666666" rx="4" class="barre"/>
+      <text x="104" y="258" text-anchor="middle" class="axe">janv. 26</text></g><g><title>févr. 26 : 5 553,10 €</title>
+      <rect x="148.2" y="158.55453333333338" width="47.599999999999994" height="81.44546666666663" rx="4" class="barre"/>
+      <text x="172" y="258" text-anchor="middle" class="axe">févr. 26</text></g><g><title>mars 26 : 4 956,20 €</title>
+      <rect x="216.2" y="167.30906666666664" width="47.599999999999994" height="72.69093333333335" rx="4" class="barre"/>
+      <text x="240" y="258" text-anchor="middle" class="axe">mars 26</text></g><g><title>avr. 26 : 4 964,90 €</title>
+      <rect x="284.2" y="167.18146666666667" width="47.599999999999994" height="72.81853333333333" rx="4" class="barre"/>
+      <text x="308" y="258" text-anchor="middle" class="axe">avr. 26</text></g><g><title>mai 26 : 6 788,20 €</title>
+      <rect x="352.2" y="140.43973333333338" width="47.599999999999994" height="99.56026666666662" rx="4" class="barre"/>
+      <text x="376" y="258" text-anchor="middle" class="axe">mai 26</text></g><g><title>juin 26 : 5 837,70 €</title>
+      <rect x="420.2" y="154.3804" width="47.599999999999994" height="85.61959999999999" rx="4" class="barre"/>
+      <text x="444" y="258" text-anchor="middle" class="axe">juin 26</text></g><g><title>juil. 26 : 7 788,40 €</title>
+      <rect x="488.2" y="125.77013333333329" width="47.599999999999994" height="114.22986666666671" rx="4" class="barre"/>
+      <text x="512" y="258" text-anchor="middle" class="axe">juil. 26</text></g><g><title>août 26 : 9 195,10 €</title>
+      <rect x="556.2" y="105.13853333333333" width="47.599999999999994" height="134.86146666666667" rx="4" class="barre"/>
+      <text x="580" y="258" text-anchor="middle" class="axe">août 26</text></g><g><title>sept. 26 : 7 355,40 €</title>
+      <rect x="624.2" y="132.12080000000003" width="47.599999999999994" height="107.87919999999998" rx="4" class="barre"/>
+      <text x="648" y="258" text-anchor="middle" class="axe">sept. 26</text></g><g><title>oct. 26 : 10 641,30 €</title>
+      <rect x="692.2" y="83.92760000000004" width="47.599999999999994" height="156.07239999999996" rx="4" class="barre"/>
+      <text x="716" y="258" text-anchor="middle" class="axe">oct. 26</text></g></svg>
+  </section>
+
+  <div class="deux">
+    <section class="carte">
+      <h2>🏆 Top 5 des produits</h2>
+      <table><thead><tr><th>#</th><th>Produit</th><th class="num">Qté</th><th class="num">CA</th></tr></thead>
+      <tbody>
+    <tr><td>1</td><td>Écran 27 pouces</td><td class="num">79</td><td class="num">19 671,00 €</td></tr>
+    <tr><td>2</td><td>Montre connectée</td><td class="num">80</td><td class="num">12 720,00 €</td></tr>
+    <tr><td>3</td><td>Clavier mécanique</td><td class="num">70</td><td class="num">6 230,00 €</td></tr>
+    <tr><td>4</td><td>Casque audio sans fil</td><td class="num">74</td><td class="num">5 912,60 €</td></tr>
+    <tr><td>5</td><td>Écouteurs intra</td><td class="num">152</td><td class="num">4 544,80 €</td></tr></tbody></table>
+    </section>
+    <section class="carte">
+      <h2>Détail par mois</h2>
+      <table><thead><tr><th>Mois</th><th class="num">Ventes</th><th class="num">CA</th><th class="num">Évol.</th></tr></thead>
+      <tbody>
+    <tr><td>janv. 26</td><td class="num">29</td><td class="num">2 498,80 €</td>
+    <td class="num ">—</td></tr>
+    <tr><td>févr. 26</td><td class="num">47</td><td class="num">5 553,10 €</td>
+    <td class="num hausse">+122,2 %</td></tr>
+    <tr><td>mars 26</td><td class="num">45</td><td class="num">4 956,20 €</td>
+    <td class="num baisse">-10,7 %</td></tr>
+    <tr><td>avr. 26</td><td class="num">48</td><td class="num">4 964,90 €</td>
+    <td class="num hausse">+0,2 %</td></tr>
+    <tr><td>mai 26</td><td class="num">56</td><td class="num">6 788,20 €</td>
+    <td class="num hausse">+36,7 %</td></tr>
+    <tr><td>juin 26</td><td class="num">49</td><td class="num">5 837,70 €</td>
+    <td class="num baisse">-14 %</td></tr>
+    <tr><td>juil. 26</td><td class="num">62</td><td class="num">7 788,40 €</td>
+    <td class="num hausse">+33,4 %</td></tr>
+    <tr><td>août 26</td><td class="num">63</td><td class="num">9 195,10 €</td>
+    <td class="num hausse">+18,1 %</td></tr>
+    <tr><td>sept. 26</td><td class="num">62</td><td class="num">7 355,40 €</td>
+    <td class="num baisse">-20 %</td></tr>
+    <tr><td>oct. 26</td><td class="num">77</td><td class="num">10 641,30 €</td>
+    <td class="num hausse">+44,7 %</td></tr></tbody></table>
+    </section>
+  </div>
+
+  <section class="carte"><h2>Par catégorie</h2>
+    <div class="hbar">
+      <span class="hbar-nom">Informatique</span>
+      <span class="hbar-piste"><span style="width:100%"></span></span>
+      <span class="hbar-val">28 074,50 € <small>(43 %)</small></span>
+    </div>
+    <div class="hbar">
+      <span class="hbar-nom">Objets connectés</span>
+      <span class="hbar-piste"><span style="width:58.42134321181144%"></span></span>
+      <span class="hbar-val">16 401,50 € <small>(25 %)</small></span>
+    </div>
+    <div class="hbar">
+      <span class="hbar-nom">Audio</span>
+      <span class="hbar-piste"><span style="width:49.69064453507623%"></span></span>
+      <span class="hbar-val">13 950,40 € <small>(21 %)</small></span>
+    </div>
+    <div class="hbar">
+      <span class="hbar-nom">Accessoires</span>
+      <span class="hbar-piste"><span style="width:25.477568612085694%"></span></span>
+      <span class="hbar-val">7 152,70 € <small>(11 %)</small></span>
+    </div></section>
+  <section class="carte"><h2>Par vendeur</h2>
+    <div class="hbar">
+      <span class="hbar-nom">Vendeur A</span>
+      <span class="hbar-piste"><span style="width:100%"></span></span>
+      <span class="hbar-val">18 006,50 € <small>(27 %)</small></span>
+    </div>
+    <div class="hbar">
+      <span class="hbar-nom">Boutique en ligne</span>
+      <span class="hbar-piste"><span style="width:93.31463638130674%"></span></span>
+      <span class="hbar-val">16 802,70 € <small>(26 %)</small></span>
+    </div>
+    <div class="hbar">
+      <span class="hbar-nom">Vendeur C</span>
+      <span class="hbar-piste"><span style="width:88.1687168522478%"></span></span>
+      <span class="hbar-val">15 876,10 € <small>(24 %)</small></span>
+    </div>
+    <div class="hbar">
+      <span class="hbar-nom">Vendeur B</span>
+      <span class="hbar-piste"><span style="width:82.7134645822342%"></span></span>
+      <span class="hbar-val">14 893,80 € <small>(23 %)</small></span>
+    </div></section>
+  
+    <section class="carte alerte">
+      <h2>⚠️ 4 ligne(s) ignorée(s)</h2>
+      <p>Ces lignes du fichier contiennent des erreurs et n'ont pas été comptées :</p>
+      <ul><li>Ligne 540 : date invalide « 31/02/2026 »</li><li>Ligne 541 : quantité invalide « deux »</li><li>Ligne 542 : produit manquant</li><li>Ligne 543 : prix manquant</li></ul>
+      
+    </section>
+</main>
+<footer>Rapport généré automatiquement le 25/11/2026 14:44:18</footer>
+</body>
+</html>
